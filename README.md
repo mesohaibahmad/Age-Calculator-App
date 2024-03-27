@@ -59,5 +59,5 @@ In this dev challenge you learn alot about **Date functions in javascript**. Bec
 
 ## Author
 
-- Website - [Sohaib Ahmad]([https://www.your-site.com](https://github.com/mesohaibahmad))
+- Website -Soahib Ahmad https://github.com/mesohaibahmad
 
