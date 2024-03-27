@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/mesohaibahmad/Age-Calculator-App)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/mesohaibahmad/Age-Calculator-App)
+- Live Site URL: [Add live site URL here](https://mesohaibahmad.github.io/Age-Calculator-App/)
 
 ### Built with
 
